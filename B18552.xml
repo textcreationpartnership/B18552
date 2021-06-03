@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case concerning the palace of VVestminster and VVhite-hall.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18552</idno><idno type="EEBO-CITATION">99885563</idno>
+  <idno type="VID">185322</idno>
+  <idno type="EEBO-PROQUEST">2240895143</idno>
+  
+            <idno type="STC">Wing C864aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[116]</idno>
+            <idno type="STC">ESTC R224651</idno>
+            <idno type="PROQUEST">ocm99885563</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885563e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185322)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[115])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case concerning the palace of VVestminster and VVhite-hall.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:185322:1"/>
+            <pb facs="tcp:185322:1"/>
+            <head>The Case concerning the Palace of VVestminster and VVhite-hall.</head>
+            <p>THe Kings of <hi>England,</hi> time out of minde, were seized in Fee (<hi>Jure Coronae</hi>) of the Old Palace in <hi>Westminster, cum peatin: in Com: Midd:</hi> till 28 <hi>H.</hi> 8. Who being so seized, then purchased a great Mansion-house, parcel of the Possession of the Archbishop of <hi>York,</hi> near to the old Palace in <hi>Westminster,</hi> which being decayed, he built many fair Lodgings and Buildings for his pleasure and Commodity. <hi>H.</hi> 8. was then also seized in Fee (<hi>Jure Coronae</hi>) of St. <hi>James</hi>'s Park, inclosed with a Brick and Stone wall. Where<g ref="char:EOLhyphen"/>upon 28 <hi>H.</hi> 8. <hi>praed;</hi> It was Enacted by Parliament, That all the premises should be the Kings whole Palace at <hi>Westmimster,</hi> and so to be called for ever, and should extend, and be as well within the Soyl and Palace <hi>praed:</hi> as also in all the Street or way leading from Charing-Cross, to the Sanctuary Gate at <hi>Westminster,</hi> and in all the Buildings and Houses, Lands and Tenements on both sides of that Street, from the Cross to <hi>Westminster</hi>-hall, being between the <hi>Thames</hi> on the East part, and the Park-wall on the West, and so through all the Soyl Precincts and Limits of the Old Palace: And that the New Palace should have all the Prerogatives, Liberties, Priviledges, <hi>&amp;c.</hi> as the Old Palace had; and that the Old Palace should be reputed as parcel of the new: As by the Act.</p>
+            <p>Hereupon there happening to be many Intrusions and Incroachments upon the Palace, <hi>&amp;c.</hi> in divers places: A Commission under the Great Seal was directed to the late Earl of <hi>Manchestor,</hi> and the now Earl of <hi>Dorset</hi> and others, in 11<seg rend="sup">0</seg>
+               <hi>Car:</hi> to inquire upon Oath, which were the just and ancient Metes and Bounds of the Palace of <hi>Westminster,</hi> and how far they extended, or were wont so to do, <hi>&amp;c.</hi>
+            </p>
+            <p>And an Inquisition, <hi>dat:</hi> 31 <hi>Julii,</hi> 11 <hi>Car:</hi> was thereupon found, containg the matters (<hi>ut sup:</hi>) And that within the said Palace there can a Common-Sewer from Petty-Callis Gate; after dividing it self into two parts, one running near the Park-wall to the Ax-yard in Kings-street, and thence to the Black-Bell in that Street; and the other part running from Petty-Callis Gate by the Back-side of the George in Kings-street, under the Stables and Coach-houses of the Blew-Boar; and thence through Poulterers-yard, and thence to the Black-bell in <hi>Kings-street,</hi> and there both parts joyning, they ran through divers parts of Kings-street and Pentioners Alley, to the Orchard at <hi>White</hi>-hall, and thence into the <hi>Thames.</hi> And another Sewer running through the said Palace, from the Market-place near Kings-street, through the Wool-Staple into Canon-Row, and so into the <hi>Thames.</hi> Upon which Sewers divers Houses and Buildings were erected, and also upon St. <hi>James</hi>'s Park-wall in divers places, and other parts of that Wall were demolished; instead whereof <hi>Portland-house</hi> and <hi>Kirk-house</hi> were built: And that the Old Wall extending from the Gate at the end of the Parliament Stairs within the Old Palace, to the Kings Mill, was in some parts defaced and others demolish<g ref="char:EOLhyphen"/>ed, and in divers parts thereof, divers Houses and Buildings erected. And that upon the Old Stone wall, extending from the Gate-house of the Old Palace yard, in length to the <hi>Thames,</hi> and returning to the Kings Bridge, divers Houses and Buildings were erected. And that divers Houses, Wharfs and Buildings were erected within the Limits of the Old Palace, between the said Old Stone wall at the Gate of the Parliament Stairs, and the Kings Mill and <hi>Thames.</hi> And that upon a Stone wall near <hi>H.</hi> the Sevenths Chappel, A house called <hi>Heaven;</hi> and against the Wall of the Court of Requests, divers Houses and Buildings were erected: As by the Inquisition.</p>
+            <p>Hereupon another Commission under the Great Seal, dat. 30 <hi>Martii,</hi> 13 <hi>Car.</hi> was directed to the E: of <hi>Manchester</hi> and <hi>Dorset,</hi> and others reciting the premises, and impowering them or any three of them (whereof <hi>Manchester</hi> or <hi>Dorset</hi> to be one) to enquire upon Oath by Jury and witnesses, Whither the just and ancient Bounds of the Palace at <hi>Westminster</hi> extended beyond the Metes and Bounds (<hi>sup.</hi>) and how and in what maner, and what persons, without Right or Title held any Houses <hi>&amp;c.</hi> within the same: And what Incroachments had been made, and by whom, and how great, and of what value, for which no Rent or Profit was paid to the Crown; and what these Rents, Issues or Pro<g ref="char:EOLhyphen"/>fits amounted too, and by whom Received. And upon such inquiry, to Compound with the Intruders and Incroachers, their Heirs, Ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> Administrators or Assigns, for their Fines and Sums of Money to be assessed, for holding any Houses, Buildings, <hi>&amp;c.</hi> within the said Palace, which of right did belong to the Crown, or otherwise, for the grant of the Premises to them, or for pardoning, releasing or discharging them of their Intrusions and Incroachments; and if they should refuse to Agree and Compound, Then the Commissioners to sell and alien their Incroachments, and the same to be ratified by Grant under the Great Seal, wherein a small Rent should be reserved to the Crown, and the premises to be held in Socage of the Manor of <hi>East-Greenwich.</hi> And upon every Composition for any Grant, Pardon, Re<g ref="char:EOLhyphen"/>lease or License, a fourth part of every such Composition was to be paid to the use of the Crown into the Exchequer, and the other three parts to <add rend="onBlank">Sir Humphrey Style <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Baronett</add> his Executors and Assigns without any Accompt: for which three parts the Officers of the Exche<g ref="char:EOLhyphen"/>quer were to enter discharges, as if the same had been paid to the Crown.</p>
+            <p>And the Attorney and Solicitor-General, and all other Officers and Ministers, were to cause all Proces and other means to be used for the Execution of these Letters Parents, as well for the benefit of the Crown as of <add rend="onBlank">Sir Humphrey Style</add> his Executors, Administrators and Assigns, <hi>&amp;c.</hi> as by the Letters Patents.</p>
+            <p>Hereupon after divers sittings of the Commissioners to Compound with the Intruders and Incroachers, returned in the Inquisition <hi>sup:</hi> and the refusal of divers of them: An information of Intrusion was exhibited by Sir <hi>John Banks</hi> into the Exchequer against such of the said Re<g ref="char:EOLhyphen"/>fusers by reason of the premises: And they answered, and Issue was joyned: And 7 <hi>Iunii</hi> in <hi>Trin:</hi> 14 <hi>Car:</hi> the Cause was heard, and upon full proof, the Court found the Intrusions and Incroachments then in proof, and Ordered a Commission of Survey directed to <hi>George Courthope</hi> and <hi>Gerard Goar,</hi> Esqs; to view the same with Workmen, and certifie in particular the Extent and maner of the same, for the better Information of the Court, and they accordingly returned their Certificate (as thereby appears) finding the particular Incroachments, <hi>&amp;c.</hi> And thereupon, 23 <hi>Octob.</hi> 14 <hi>Car.</hi> the Court confirmed that Certificate, and Awarded an Injunction against the Intruders directed to the Sheriff of <hi>Middlesex,</hi> forth with to demolish and pull down the Intrusions and Incroachments within the said Palace according to the Certificate: As by the In<g ref="char:EOLhyphen"/>junction may appear.</p>
+            <p>Whereupon the Sheriff went about to demolish divers Buildings, <hi>&amp;c.</hi> and then divers of the persons concerned came in and Compounded; but the Wars and Troubles ensuing, the further Execution of this Commission ceased, and now there are but three Commissioners living, and onely the Earl of <hi>Dorset</hi> of the <hi>Quorum.</hi>
+            </p>
+            <p>The Parliament in the Act for sale of the Crown Lands, 16 <hi>Julii,</hi> 1649. have excepted from Sale the premises.</p>
+            <p>And by several Acts of this Parliament, particular Rights of private persons confirmed heretofore by Patent to them upon good consi<g ref="char:EOLhyphen"/>deration, and where the Interest of the Publique may be concerned (as it is in this case) are allowed and approved; and its the common course of the Exchequer.</p>
+            <p>The case standing thus, and there being many Incroachments <hi>ut sup:</hi> uncompounded for, <add rend="onBlank">Sir Humphrey Style</add> desireth that this Commis<g ref="char:EOLhyphen"/>sion may be set on foot according to the nature thereof, and the Judgement of the Exchequer; whereby advantage will come to the State, and a competent satisfaction to himself, who spent in the prosecution of the former Business above <add rend="onBlank">2000:00:00:</add> The parties concerned having no right in the world to their Buildings, for that they have in the Exchequer either confessed their Intrusions, <hi>&amp;c.</hi> or they were fully proved.</p>
+            <p>
+               <hi>And to the end that such a course may be had, either upon this Commission, or by renewing it and appointing new Commissioners, or otherwise as the Parliament shall think fit <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> saving to <add rend="onBlank">Sir Humphrey Style</add> his right) is left to due consideration.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
